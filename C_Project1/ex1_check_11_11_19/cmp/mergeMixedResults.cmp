@@ -1,0 +1,96 @@
+Enter student info. To exit press q, then enter
+ERROR: id must be a 10 digits number that does not start with 0
+in line 0
+Enter student info. To exit press q, then enter
+ERROR: id must be a 10 digits number that does not start with 0
+in line 1
+Enter student info. To exit press q, then enter
+ERROR: id must be a 10 digits number that does not start with 0
+in line 2
+Enter student info. To exit press q, then enter
+ERROR: name can only contain alphabetic characters, whitespaces or '-'
+in line 3
+Enter student info. To exit press q, then enter
+Enter student info. To exit press q, then enter
+ERROR: grade must be an integer between 0 and 100
+in line 5
+Enter student info. To exit press q, then enter
+ERROR: grade must be an integer between 0 and 100
+in line 6
+Enter student info. To exit press q, then enter
+ERROR: age must be an integer between 18 and 120
+in line 7
+Enter student info. To exit press q, then enter
+ERROR: grade must be an integer between 0 and 100
+in line 8
+Enter student info. To exit press q, then enter
+ERROR: info must match specified format
+in line 9
+Enter student info. To exit press q, then enter
+ERROR: age must be an integer between 18 and 120
+in line 10
+Enter student info. To exit press q, then enter
+ERROR: country can only contain alphabetic characters or '-'
+in line 11
+Enter student info. To exit press q, then enter
+ERROR: city can only contain alphabetic characters or '-'
+in line 12
+Enter student info. To exit press q, then enter
+ERROR: name can only contain alphabetic characters, whitespaces or '-'
+in line 13
+Enter student info. To exit press q, then enter
+ERROR: country can only contain alphabetic characters or '-'
+in line 14
+Enter student info. To exit press q, then enter
+Enter student info. To exit press q, then enter
+ERROR: city can only contain alphabetic characters or '-'
+in line 16
+Enter student info. To exit press q, then enter
+ERROR: name can only contain alphabetic characters, whitespaces or '-'
+in line 17
+Enter student info. To exit press q, then enter
+ERROR: info must match specified format
+in line 18
+Enter student info. To exit press q, then enter
+ERROR: info must match specified format
+in line 19
+Enter student info. To exit press q, then enter
+Enter student info. To exit press q, then enter
+ERROR: info must match specified format
+in line 21
+Enter student info. To exit press q, then enter
+ERROR: info must match specified format
+in line 22
+Enter student info. To exit press q, then enter
+ERROR: info must match specified format
+in line 23
+Enter student info. To exit press q, then enter
+ERROR: info must match specified format
+in line 24
+Enter student info. To exit press q, then enter
+ERROR: info must match specified format
+in line 25
+Enter student info. To exit press q, then enter
+ERROR: info must match specified format
+in line 26
+Enter student info. To exit press q, then enter
+ERROR: info must match specified format
+in line 27
+Enter student info. To exit press q, then enter
+ERROR: info must match specified format
+in line 28
+Enter student info. To exit press q, then enter
+ERROR: info must match specified format
+in line 29
+Enter student info. To exit press q, then enter
+Enter student info. To exit press q, then enter
+ERROR: info must match specified format
+in line 31
+Enter student info. To exit press q, then enter
+ERROR: info must match specified format
+in line 32
+Enter student info. To exit press q, then enter
+3333333333	c	33	20	C	m	
+2525252525	aB	80	100	ee	eee	
+8888888888	h	88	25	H	r	
+9999999999	i	99	26	I	s	

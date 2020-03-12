@@ -1,0 +1,9 @@
+the whole point of parsing every argument seperatly was to keep track of which arg had failed for
+the infomative msg, that's why the first sscanf use is general extrcation of strings out of input.
+
+i've used global variables although it's not the best practice due to the guidance about not using
+poinnters.
+
+I could really use an advice about the overkill that I had in this exercise, not the first time I
+ruin my life with to complicated implementation in school (cause spending 2.5 days for parsing text
+is way to much).
